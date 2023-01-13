@@ -1,0 +1,5 @@
+R_tatals_norm
+Bales_levels_norm
+Diameters_norm
+Displacements_norm
+GMs_norm
